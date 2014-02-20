@@ -1,1 +1,0 @@
-WebbTemp is a PHP-boilerplate/framework for small websites. WebbTemp was built by Mattias Rosengren (Mattias.Rosengren@live.com) 
